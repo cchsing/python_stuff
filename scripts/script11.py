@@ -16,3 +16,9 @@ class csv_to_list_1:
             reader = csv.reader(f)
             data = list(reader)
         return data
+
+def main(*args):
+    pass
+
+if __name__ == "__main__":
+    main()
