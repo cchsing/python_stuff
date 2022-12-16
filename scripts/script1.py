@@ -21,6 +21,7 @@ def main(*args):
     output = ''
     for i in range(6,len(testData_0),1):
         print(data_split[i-6])
+    
         
     # for i in range(0,7,1):
     #     print(i)
