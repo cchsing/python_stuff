@@ -8,3 +8,4 @@
 4. deactivate
 5. pip list
 6. pip freeze
+7. python.exe -m pip install --upgrade pip
