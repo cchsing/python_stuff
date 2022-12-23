@@ -9,3 +9,6 @@
    - `ALLOWED_HOSTS = ["server_hostname","server_ip"]`
 5. python manage.py createsuperuser
 6. python manage.py migrate
+7. django-admin startproject `project_name` .
+8. django-admin startapp products
+9. python manage.py makemigrations
