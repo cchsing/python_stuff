@@ -26,3 +26,11 @@ if not condition:
 raise AssertionError(message)
 
 ```
+
+3. lambda function
+   - A small anonymous function that can take any number of arguments and execute an expression
+   ```
+   x = lambda a : a + 10
+   print(x(10))
+   ```
+   show - 20

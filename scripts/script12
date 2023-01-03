@@ -1,0 +1,15 @@
+
+def main(*args):
+    # input dictionary
+    inputDictionary = {'Hello': 10, 'Tutorialspoint': 20, 'python': 30}
+    # Storing key and value as list of tuples using list comprehension
+    resultList = [(f'{key}=\"{value}\"')
+                  for key, value in inputDictionary.items()]
+    # printing the resultant list of a dictionary key-values
+    print(resultList)
+    mystring = ",".join(map(str, resultList))
+    print(mystring)
+
+
+if __name__ == "__main__":
+    main()

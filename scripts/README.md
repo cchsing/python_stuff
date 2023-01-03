@@ -9,6 +9,6 @@
 7.
 8.
 9.
-10.
+10. State method implementation - ATM machine [Script 10](./script10.py)
 11. Conversion of CSV to List: [Script 11](./script11.py)
 12.
